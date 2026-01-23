@@ -76,5 +76,17 @@ public static class Solution
             Console.WriteLine($"[{i}] ({e[0]}, {e[1]})");
         }
     }
+
+    private static void Renderer()
+    {
+        try
+        {
+            //Implement rendering logic here to pass the tests
+        }
+        catch
+        {
+            
+        }
+    }
 }
 
